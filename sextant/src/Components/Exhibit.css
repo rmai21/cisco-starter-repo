@@ -1,0 +1,28 @@
+.Exhibit{
+    float: center; 
+    text-align: center;
+    color: #002933;
+    background-color: #251F47;
+    padding: 2vw 2vw 2vw 2vw; 
+    flex-shrink: 0; 
+    margin: 20px;
+    margin-left: 0.5vw;
+}
+
+.ExhibitHeading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px; 
+    color: #ffffff; 
+
+}
+
+.ExhibitContent{
+    text-align: center; 
+    padding: 2vw 2vw 2vw 2vw; 
+    border: 0.15vw solid #ffffff;
+    margin: 0.5vw;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #002933;
+    background-color: #71B48D;
+}
